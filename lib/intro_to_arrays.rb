@@ -1,0 +1,1 @@
+array = ["red", "blue"]
